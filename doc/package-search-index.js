@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.cg.jobportal"},{"l":"com.cg.jobportal.controller"},{"l":"com.cg.jobportal.entity"},{"l":"com.cg.jobportal.exceptions"},{"l":"com.cg.jobportal.repository"},{"l":"com.cg.jobportal.service"}];updateSearchResults();

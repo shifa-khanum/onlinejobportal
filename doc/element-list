@@ -1,0 +1,6 @@
+com.cg.jobportal
+com.cg.jobportal.controller
+com.cg.jobportal.entity
+com.cg.jobportal.exceptions
+com.cg.jobportal.repository
+com.cg.jobportal.service
